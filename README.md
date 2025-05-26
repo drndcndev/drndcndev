@@ -96,15 +96,14 @@
 
 ### 🏢 Current Position
 **Graduating College Student** @ Dr. Yanga's Colleges Inc. *(2021 - Present)*
-- Developed NAPOLCOM government project
-- Implemented CI/CD pipelines reducing deployment time by 60%
+- Developed web-based and mobile app projects
 - Mentored junior developers and conducted code reviews
 
 ### 🏢 Previous Experience
 **Intern College Student** @ Actimai Philippines Inc. *(2025 Feb - May)*
 - Developed website using React and Flask
-- Collaborated with cross-functional teams in Agile environment
-- Learned new technology & tools
+- Collaborated with cross-functional teams
+- Learned new technologies & tools
 
 ---
 
@@ -116,14 +115,6 @@
 - 📜 **Fundamentals of Predictive Project Management**
 - 📜 **Database Foundation (Oracle)**
 - 📜 **Microsoft Office Specialist: Excel Associate (Office 2019 - Microsoft)**
-
----
-<!--
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
