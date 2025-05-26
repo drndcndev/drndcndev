@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **NAPOLCOM Government Project**
-- 🌱 I'm currently learning **UI Path**
+- 🌱 I'm currently learning **UI Path Automation Development**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **narodecin@gmail.com**
 - ⚡ Fun fact: **I debug with console.log! >_<**
