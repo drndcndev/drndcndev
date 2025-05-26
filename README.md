@@ -143,5 +143,4 @@
 <div align="center">
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
 </div>
-```
 
