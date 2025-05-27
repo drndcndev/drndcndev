@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Developer;Future+DevOps+Engineer;Bridging+Code;Infrastructure;Aspiring+Software+%26+DevOps+Engineer;Code.+Deploy.+Learn.+Repeat.;Innovating+One+Project+at+a+Time;College+Student+Developer" alt="Animated Bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Developer;Future+DevOps+Engineer;Aspiring+Software+%26+DevOps+Engineer;Code.+Deploy.+Learn.+Repeat.;Innovating+One+Project+at+a+Time;College+Student+Developer" alt="Animated Bio" />
 </p>
 
 ---
