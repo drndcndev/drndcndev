@@ -9,12 +9,12 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  -->
   <a href="mailto:narodecin@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  -->
 </p>
 
+<!--
 ---
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **NAPOLCOM Government Project**
@@ -22,6 +22,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **narodecin@gmail.com**
 - ⚡ Fun fact: **I debug with console.log! >_<**
+-->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=drndcndev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -81,14 +82,6 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drndcndev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ---
 
