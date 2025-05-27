@@ -94,11 +94,12 @@
 
 ## 💼 Experience
 
+<!--
 ### 🏢 Current Position
 **Graduating College Student** @ Dr. Yanga's Colleges Inc. *(2021 - Present)*
 - Developed web-based and mobile app projects
 - Mentored junior developers and conducted code reviews
-
+-->
 ### 🏢 Previous Experience
 **Intern College Student** @ Actimai Philippines Inc. *(2025 Feb - May)*
 - Developed website using React and Flask
