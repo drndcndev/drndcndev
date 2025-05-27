@@ -63,6 +63,8 @@ A short description of the project, technology used, and your role.
   -->
 </div>
 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=drndcndev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
 <div align="center">
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
 </div>
