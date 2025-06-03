@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,flask,nodejs,postgres,mysql,sqlite,firebase,docker,git,github,vscode,figma,blender,postman" />
