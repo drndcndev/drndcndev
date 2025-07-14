@@ -13,10 +13,20 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center" style="margin: 0 0 20 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=radical" alt="GitHub Stats" width="350" height="200" style="display:inline-block; margin-right:20px; vertical-align:middle;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=radical" alt="GitHub Streak" width="350" height="200" style="display:inline-block; vertical-align:middle;" />
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=radical" alt="GitHub Stats" width="260" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=radical" alt="GitHub Streak" width="260" height="150" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
