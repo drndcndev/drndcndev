@@ -12,20 +12,6 @@
 
 ---
 
-## 👋 About Me
-
-Passionate software developer and aspiring DevOps engineer. I love building scalable solutions, automating workflows, and learning new technologies. Always eager to collaborate and innovate!
-
----
-
-## 🚀 Projects
-
-- **Project One**: Brief description of your project and technologies used.
-- **Project Two**: Brief description of your project and technologies used.
-- *(Add more projects as needed)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -37,9 +23,17 @@ Passionate software developer and aspiring DevOps engineer. I love building scal
 
 ## 📫 Contact
 
-- Email: your.email@example.com
-- Instagram: [@yourinstagram](https://instagram.com/yourinstagram)
-- GitHub: [drndcndev](https://github.com/drndcndev)
+<p align="center">
+  <a href="mailto:narodecin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/drndcn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/drndcndev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
 
