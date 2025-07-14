@@ -13,9 +13,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=radical" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=radical" alt="GitHub Streak" style="display:inline-block;" />
+<p align="center" style="margin: 0 0 20 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=radical" alt="GitHub Stats" width="350" height="200" style="display:inline-block; margin-right:20px; vertical-align:middle;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=radical" alt="GitHub Streak" width="350" height="200" style="display:inline-block; vertical-align:middle;" />
 </p>
 
 ---
