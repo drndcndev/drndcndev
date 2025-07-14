@@ -17,10 +17,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=radical" alt="GitHub Stats" width="260" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=transparent" alt="GitHub Stats" width="260" height="150" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=radical" alt="GitHub Streak" width="260" height="150" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=transparent" alt="GitHub Streak" width="260" height="150" />
     </td>
   </tr>
 </table>
