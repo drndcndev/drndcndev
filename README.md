@@ -22,11 +22,11 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=transparent" alt="GitHub Streak" width="260" height="150" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drndcndev&layout=compact&theme=transparent" alt="Top Languages" width="260" height="150" />
+    </td>
   </tr>
 </table>
-
-
-
 
 ---
 
