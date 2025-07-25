@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=adff89&center=true&vCenter=true&width=435&lines=Code.+Deploy.+Learn.+Repeat.;Innovating+One+Project+at+a+Time" alt="Animated Bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=adff89&center=true&vCenter=true&width=435&lines=Automation+Engineer;Back-End+Developer;DevOps+Enthusiast;Front-End+Learner" alt="Animated Bio" />
 </p>
 
 ---
