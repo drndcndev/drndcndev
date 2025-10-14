@@ -1,62 +1,57 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling" />
 
- Header Section with Integrated Typing Animation 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" />
-
-<div style="margin-top: -100px; margin-bottom: 50px;">
+<div style="margin-top: -50px; margin-bottom: 50px;">
   
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&height=70&lines=drndcndev;Automation+Engineer;Back-End+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-
-<p style="font-size: 18px; color: #94a3b8; margin-top: 20px;">
-  Building robust systems and automating the future
-</p>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&height=70&lines=drndcndev;Automation+Engineer;Back-End+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
-
- Navigation Pills 
-<p>
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/About-6EE7B7?style=for-the-badge&logoColor=white" alt="About" />
-  </a>
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/Tech_Stack-6EE7B7?style=for-the-badge&logoColor=white" alt="Tech Stack" />
-  </a>
-  <a href="#-github-stats">
-    <img src="https://img.shields.io/badge/Stats-6EE7B7?style=for-the-badge&logoColor=white" alt="Stats" />
-  </a>
-  <a href="#-contact">
-    <img src="https://img.shields.io/badge/Contact-6EE7B7?style=for-the-badge&logoColor=white" alt="Contact" />
-  </a>
-</p>
-
 </div>
-
-<br/>
 
 ---
-
-<br/>
 
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-\`\`\`yaml
-name: drndcndev
-located_in: Earth
-current_focus: 
-  - Backend Development
-  - DevOps & Automation
-  - System Architecture
-education:
-  - Automation Engineering
-  - Full-Stack Development
-interests:
-  - Cloud Infrastructure
-  - CI/CD Pipelines
-  - API Design
-  - Database Optimization
-\`\`\`
+```
+import json
+
+profile = {
+  "name": "drndcndev",
+  "located_in": "Earth",
+  "current_job": [
+    "Junior Automation Engineer (Actimai PH Inc)",
+  ],
+  "experience": {
+    "duration_months": 3,
+    "role": "Junior Automation Engineer",
+    "employer": "Actimai PH Inc",
+  },
+  "education": [
+    "Information Technology",
+    "Automation Engineering",
+  ],
+  "interests": [
+    "API Design",
+    "Database Optimization",
+    "AI-driven",
+  ],
+  "certifications": [
+    "UiPath Learning Certificate",
+    "IBM RPA Learning Certificate",
+    "AI-related coursework",
+  ],
+  "skills": {
+    "technical": ["Test Automation", "Process Automation", "Monitoring", "Scripting"],
+    "soft": ["Teamwork", "Code Reviews", "Learning-oriented"],
+  },
+  "tone": "concise, technical, friendly, growth-focused",
+}
+
+if __name__ == "__main__":
+  # pretty-print JSON representation of the profile
+  print(json.dumps(profile, indent=2))
+```
 
 <br clear="right"/>
 
@@ -95,23 +90,13 @@ interests:
 <div align="center">
   
 <!-- Replace <YOUR-VERCEL-APP> with your actual Vercel domain (example: github-readme-stats-drndcndev.vercel.app) -->
-<img width="49%" src="https://github-readme-stats-drndcndev.vercel.app/api?username=drndcndev&show_icons=true&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api?username=drndcndev&count_private=true&show_icons=true&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats-drndcndev.vercel.app/api/top-langs/?username=drndcndev&layout=compact&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api/top-langs/?username=drndcndev&layout=compact&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages" />
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=drndcndev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=C9D1D9" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=drndcndev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
