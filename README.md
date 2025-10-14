@@ -1,103 +1,107 @@
 <div align="center">
 
- Header with gradient text 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,50:2d3748,100:1a1f2e&height=200&section=header&text=&fontSize=0&animation=tween" width="100%"/>
+ Header Section with Integrated Typing Animation 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" />
 
-<div style="background: linear-gradient(135deg, #1a1f2e 0%, #2d3748 100%); padding: 60px 40px; border-radius: 20px; margin: -100px 0 40px 0;">
-
+<div style="margin-top: -100px; margin-bottom: 50px;">
+  
 # <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&height=70&lines=drndcndev;Automation+Engineer;Back-End+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 
-<p style="font-size: 18px; color: #94a3b8; margin: 20px 0; line-height: 1.6; max-width: 700px; margin-left: auto; margin-right: auto;">
-Building robust automation systems and scalable back-end solutions.<br/>
-Passionate about DevOps practices and exploring front-end technologies.
+<p style="font-size: 18px; color: #94a3b8; margin-top: 20px;">
+  Building robust systems and automating the future
 </p>
 
 </div>
 
+ Navigation Pills 
+<p>
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/About-6EE7B7?style=for-the-badge&logoColor=white" alt="About" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/Tech_Stack-6EE7B7?style=for-the-badge&logoColor=white" alt="Tech Stack" />
+  </a>
+  <a href="#-github-stats">
+    <img src="https://img.shields.io/badge/Stats-6EE7B7?style=for-the-badge&logoColor=white" alt="Stats" />
+  </a>
+  <a href="#-contact">
+    <img src="https://img.shields.io/badge/Contact-6EE7B7?style=for-the-badge&logoColor=white" alt="Contact" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Tech Arsenal
+<br/>
 
-<div style="background: rgba(30, 41, 59, 0.4); backdrop-filter: blur(10px); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 16px; padding: 30px; margin: 20px 0;">
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+\`\`\`yaml
+name: drndcndev
+located_in: Earth
+current_focus: 
+  - Backend Development
+  - DevOps & Automation
+  - System Architecture
+education:
+  - Automation Engineering
+  - Full-Stack Development
+interests:
+  - Cloud Infrastructure
+  - CI/CD Pipelines
+  - API Design
+  - Database Optimization
+\`\`\`
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e293b" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e293b" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e293b" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e293b" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1e293b" alt="Flask"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask&theme=dark" />
 </p>
 
-### Frontend & Styling
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e293b" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e293b" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e293b" alt="Tailwind"/>
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" />
 </p>
 
-### Databases & Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e293b" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e293b" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1e293b" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1e293b" alt="Firebase"/>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
 </p>
 
 ### DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e293b" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e293b" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e293b" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e293b" alt="Postman"/>
-</p>
-
-### Design & Creative
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e293b" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=1e293b" alt="Blender"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,blender&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drndcndev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1f2e&title_color=6ee7b7&icon_color=6ee7b7&text_color=94a3b8&border_radius=12" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=tokyonight&hide_border=true&background=1a1f2e&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="GitHub Streak" height="180"/>
-</div>
+  
+<!-- Replace <YOUR-VERCEL-APP> with your actual Vercel domain (example: github-readme-stats-drndcndev.vercel.app) -->
+<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api?username=drndcndev&show_icons=true&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats" />
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drndcndev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1f2e&title_color=6ee7b7&text_color=94a3b8&border_radius=12&langs_count=8" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drndcndev&theme=tokyo-night&hide_border=true&bg_color=1a1f2e&color=6ee7b7&line=6ee7b7&point=94a3b8&area=true&radius=12" alt="Contribution Graph" height="180"/>
-</div>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
 
----
+<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api/top-langs/?username=drndcndev&layout=compact&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages" />
 
-## 🎯 Current Focus
-
-<div style="background: rgba(30, 41, 59, 0.4); backdrop-filter: blur(10px); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 16px; padding: 30px; margin: 20px 0;">
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "drndcndev"
-        self.role = "Automation Engineer & Back-End Developer"
-        self.language_spoken = ["en_US", "tr_TR"]
-    
-    def current_focus(self):
-        return {
-            "learning": ["Advanced DevOps", "Cloud Architecture", "Modern Frontend"],
-            "building": ["Automation Pipelines", "Scalable APIs", "CI/CD Solutions"],
-            "exploring": ["Kubernetes", "Microservices", "React Ecosystem"]
-        }
-    
-    def get_daily_routine(self):
-        return "Code → Automate → Deploy → Repeat 🚀"
-```
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=drndcndev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=C9D1D9" alt="Contribution Graph" />
 
 </div>
 
@@ -106,80 +110,37 @@ class Developer:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drndcndev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=drndcndev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📫 Contact
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drndcndev&bg_color=1a1f2e&color=6ee7b7&line=6ee7b7&point=94a3b8&area=true&hide_border=true&radius=12" width="95%" alt="Contribution Graph"/>
-</div>
 
----
+<p>
+  <a href="mailto:narodecin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/drndcndev/">
+    <img src="https://img.shields.io/badge/Instagram-6EE7B7?style=for-the-badge&logo=instagram&logoColor=0F172A" alt="Instagram" />
+  </a>
+  <a href="https://github.com/drndcndev">
+    <img src="https://img.shields.io/badge/GitHub-6EE7B7?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
+  </a>
+</p>
 
-## 💼 Professional Highlights
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60px"/>
-      <br/><b>Clean Code</b>
-      <br/><sub>Writing maintainable & scalable solutions</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/automation.png" width="60px"/>
-      <br/><b>Automation</b>
-      <br/><sub>Streamlining workflows & processes</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60px"/>
-      <br/><b>DevOps</b>
-      <br/><sub>CI/CD & infrastructure as code</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b)](mailto:narodecin@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b)](https://www.instagram.com/drndcndev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/drndcndev)
+<p style="margin-top: 30px; color: #64748b;">
+  💡 Open to collaboration and interesting projects
+</p>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  
-### 💭 Dev Quote of the Day
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=1a1f2e&border_color=6ee7b7" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=drndcndev&label=Profile%20Views&color=6ee7b7&style=for-the-badge&labelColor=1e293b" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,50:2d3748,100:1a1f2e&height=120&section=footer&animation=tween" width="100%"/>
-  
-  <sub>⚡ Built with passion and lots of ☕</sub>
-  
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
