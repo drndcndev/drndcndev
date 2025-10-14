@@ -95,11 +95,11 @@ interests:
 <div align="center">
   
 <!-- Replace <YOUR-VERCEL-APP> with your actual Vercel domain (example: github-readme-stats-drndcndev.vercel.app) -->
-<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api?username=drndcndev&show_icons=true&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-drndcndev.vercel.app/api?username=drndcndev&show_icons=true&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drndcndev&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats-chi-flax-19.vercel.app/api/top-langs/?username=drndcndev&layout=compact&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-drndcndev.vercel.app/api/top-langs/?username=drndcndev&layout=compact&show_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages" />
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=drndcndev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=C9D1D9" alt="Contribution Graph" />
 
