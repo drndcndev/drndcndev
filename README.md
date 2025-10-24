@@ -7,59 +7,13 @@
 </div>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```
-import json
-
-profile = {
-  "name": "drndcndev",
-  "located_in": "Earth",
-  "current_job": [
-    "Junior Automation Engineer (Actimai PH Inc)",
-  ],
-  "experience": {
-    "duration_months": 3,
-    "role": "Junior Automation Engineer",
-    "employer": "Actimai PH Inc",
-  },
-  "education": [
-    "Information Technology",
-    "Automation Engineering",
-  ],
-  "interests": [
-    "API Design",
-    "Database Optimization",
-    "AI-driven",
-  ],
-  "certifications": [
-    "UiPath Learning Certificate",
-    "IBM RPA Learning Certificate",
-    "AI-related coursework",
-  ],
-  "skills": {
-    "technical": ["Test Automation", "Process Automation", "Monitoring", "Scripting"],
-    "soft": ["Teamwork", "Code Reviews", "Learning-oriented"],
-  },
-  "tone": "concise, technical, friendly, growth-focused",
-}
-
-if __name__ == "__main__":
-  # pretty-print JSON representation of the profile
-  print(json.dumps(profile, indent=2))
-```
-
-<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ### Languages & Frameworks
 <p>
@@ -81,7 +35,7 @@ if __name__ == "__main__":
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,blender&theme=dark" />
 </p>
 
-</div>
+<!-- </div> -->
 
 ---
 
