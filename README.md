@@ -31,7 +31,7 @@ I build workflows that take repetitive work off people’s plates and stay with 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
-  <img src="assets/workflow-light.svg" width="520" alt="Delivery lifecycle: requirements, design, build, UAT, hypercare, monitor, then root cause, with a dashed loop from root cause back to build that repeats until the exception stops recurring.">
+  <img src="assets/workflow-light.svg" width="320" alt="Delivery lifecycle: requirements, design, build, UAT, hypercare, monitor, then root cause, with a dashed loop from root cause back to build that repeats until the exception stops recurring.">
 </picture>
 
 ## Featured work
@@ -57,49 +57,54 @@ I build workflows that take repetitive work off people’s plates and stay with 
 
 ## Tech stack
 
+<div align="center">
+
 <sub>A blue check marks a certificate held.</sub>
 
 ### Automation and RPA
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/uipath.svg" width="48" height="48" alt="UiPath, certified" title="UiPath, certified"><br><sub>UiPath</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/ibm-rpa.svg" width="48" height="48" alt="IBM RPA, certified" title="IBM RPA, certified"><br><sub>IBM RPA</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/power-automate.svg" width="48" height="48" alt="Microsoft Power Automate, certified" title="Microsoft Power Automate, certified"><br><sub>Power Automate</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/gorule.svg" width="48" height="48" alt="GoRule" title="GoRule"><br><sub>GoRule</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/sap.svg" width="48" height="48" alt="SAP" title="SAP"><br><sub>SAP</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/excel.svg" width="48" height="48" alt="Excel" title="Excel"><br><sub>Excel</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/uipath.svg" width="36" height="36" alt="UiPath, certified" title="UiPath, certified"><br><sub>UiPath</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/ibm-rpa.svg" width="36" height="36" alt="IBM RPA, certified" title="IBM RPA, certified"><br><sub>IBM RPA</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/power-automate.svg" width="36" height="36" alt="Microsoft Power Automate, certified" title="Microsoft Power Automate, certified"><br><sub>Power Automate</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/gorule.svg" width="36" height="36" alt="GoRule" title="GoRule"><br><sub>GoRule</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/sap.svg" width="36" height="36" alt="SAP" title="SAP"><br><sub>SAP</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/excel.svg" width="36" height="36" alt="Excel" title="Excel"><br><sub>Excel</sub></td>
   </tr>
 </table>
 
 ### AI and data
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/prompt-engineering.svg" width="48" height="48" alt="Prompt engineering, certified" title="Prompt engineering, certified"><br><sub>Prompt engineering</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/ai-fine-tuning.svg" width="48" height="48" alt="AI model fine-tuning" title="AI model fine-tuning"><br><sub>AI model fine-tuning</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/elasticsearch.svg" width="48" height="48" alt="Elasticsearch" title="Elasticsearch"><br><sub>Elasticsearch</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/kibana.svg" width="48" height="48" alt="Kibana" title="Kibana"><br><sub>Kibana</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/prompt-engineering.svg" width="36" height="36" alt="Prompt engineering, certified" title="Prompt engineering, certified"><br><sub>Prompt engineering</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/ai-fine-tuning.svg" width="36" height="36" alt="AI model fine-tuning" title="AI model fine-tuning"><br><sub>AI model fine-tuning</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/elasticsearch.svg" width="36" height="36" alt="Elasticsearch" title="Elasticsearch"><br><sub>Elasticsearch</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/kibana.svg" width="36" height="36" alt="Kibana" title="Kibana"><br><sub>Kibana</sub></td>
   </tr>
 </table>
 
 ### Languages and frameworks
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"><br><sub>Python</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"><br><sub>JavaScript</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/csharp.svg" width="48" height="48" alt="C#" title="C#"><br><sub>C#</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/cpp.svg" width="48" height="48" alt="C++" title="C++"><br><sub>C++</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/java.svg" width="48" height="48" alt="Java" title="Java"><br><sub>Java</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/vbnet.svg" width="48" height="48" alt="VB.NET" title="VB.NET"><br><sub>VB.NET</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/python.svg" width="36" height="36" alt="Python" title="Python"><br><sub>Python</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/csharp.svg" width="36" height="36" alt="C#" title="C#"><br><sub>C#</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/cpp.svg" width="36" height="36" alt="C++" title="C++"><br><sub>C++</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java"><br><sub>Java</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/vbnet.svg" width="36" height="36" alt="VB.NET" title="VB.NET"><br><sub>VB.NET</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/kotlin.svg" width="36" height="36" alt="Kotlin" title="Kotlin"><br><sub>Kotlin</sub></td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin" title="Kotlin"><br><sub>Kotlin</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/react.svg" width="48" height="48" alt="React and React Native" title="React and React Native"><br><sub>React and React Native</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js"><br><sub>Node.js</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/express.svg" width="48" height="48" alt="Express.js" title="Express.js"><br><sub>Express.js</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/flask.svg" width="48" height="48" alt="Flask" title="Flask"><br><sub>Flask</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/react.svg" width="36" height="36" alt="React and React Native" title="React and React Native"><br><sub>React and React Native</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/nodejs.svg" width="36" height="36" alt="Node.js" title="Node.js"><br><sub>Node.js</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/express.svg" width="36" height="36" alt="Express.js" title="Express.js"><br><sub>Express.js</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/flask.svg" width="36" height="36" alt="Flask" title="Flask"><br><sub>Flask</sub></td>
   </tr>
 </table>
 
@@ -108,45 +113,45 @@ I build workflows that take repetitive work off people’s plates and stay with 
 
 **Frontend and design**
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"><br><sub>HTML</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"><br><sub>CSS</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/tailwind.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/figma.svg" width="48" height="48" alt="Figma" title="Figma"><br><sub>Figma</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/canva.svg" width="48" height="48" alt="Canva" title="Canva"><br><sub>Canva</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/html.svg" width="36" height="36" alt="HTML" title="HTML"><br><sub>HTML</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/css.svg" width="36" height="36" alt="CSS" title="CSS"><br><sub>CSS</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/tailwind.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/figma.svg" width="36" height="36" alt="Figma" title="Figma"><br><sub>Figma</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/canva.svg" width="36" height="36" alt="Canva" title="Canva"><br><sub>Canva</sub></td>
   </tr>
 </table>
 
 **Backend and databases**
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL"><br><sub>MySQL</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite"><br><sub>SQLite</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/firebase.svg" width="48" height="48" alt="Firebase" title="Firebase"><br><sub>Firebase</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/supabase.svg" width="48" height="48" alt="Supabase" title="Supabase"><br><sub>Supabase</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/mysql.svg" width="36" height="36" alt="MySQL" title="MySQL"><br><sub>MySQL</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/sqlite.svg" width="36" height="36" alt="SQLite" title="SQLite"><br><sub>SQLite</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/firebase.svg" width="36" height="36" alt="Firebase" title="Firebase"><br><sub>Firebase</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/supabase.svg" width="36" height="36" alt="Supabase" title="Supabase"><br><sub>Supabase</sub></td>
   </tr>
 </table>
 
 **Tools and DevOps**
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/docker.svg" width="48" height="48" alt="Docker" title="Docker"><br><sub>Docker</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"><br><sub>Git</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"><br><sub>GitHub</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code"><br><sub>VS Code</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" title="Postman"><br><sub>Postman</sub></td>
-    <td align="center" valign="top" width="100"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"><br><sub>Blender</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="100"><img src="assets/icons/arduino.svg" width="48" height="48" alt="Arduino IDE" title="Arduino IDE"><br><sub>Arduino IDE</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/docker.svg" width="36" height="36" alt="Docker" title="Docker"><br><sub>Docker</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/git.svg" width="36" height="36" alt="Git" title="Git"><br><sub>Git</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/github.svg" width="36" height="36" alt="GitHub" title="GitHub"><br><sub>GitHub</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/vscode.svg" width="36" height="36" alt="VS Code" title="VS Code"><br><sub>VS Code</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/postman.svg" width="36" height="36" alt="Postman" title="Postman"><br><sub>Postman</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/blender.svg" width="36" height="36" alt="Blender" title="Blender"><br><sub>Blender</sub></td>
+    <td align="center" valign="top" width="88"><img src="assets/icons/arduino.svg" width="36" height="36" alt="Arduino IDE" title="Arduino IDE"><br><sub>Arduino IDE</sub></td>
   </tr>
 </table>
 
 </details>
+
+</div>
 
 ## Experience
 
