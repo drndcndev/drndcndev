@@ -11,6 +11,11 @@
 <a href="https://www.linkedin.com/in/adrian-decin"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-2F4FE0?style=flat-square&labelColor=3B4660"></a>
 <!-- TODO: add portfolio and resume badges once hosted URLs exist -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-wide-dark.svg">
+  <img src="assets/workflow-wide-light.svg" width="520" alt="Animated state machine: Initialize, Get transaction, Process, Set status, End, with an exception at Process looping back for a retry.">
+</picture>
+
 <table>
   <tr>
     <td width="33%" valign="top"><b>Certified</b><br>UiPath Advanced RPA Developer, IBM RPA and Microsoft Power Automate.</td>
