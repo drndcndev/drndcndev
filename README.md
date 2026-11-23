@@ -11,11 +11,6 @@
 <a href="https://www.linkedin.com/in/adrian-decin"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-2F4FE0?style=flat-square&labelColor=3B4660"></a>
 <!-- TODO: add portfolio and resume badges once hosted URLs exist -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-wide-dark.svg">
-  <img src="assets/workflow-wide-light.svg" width="520" alt="Animated state machine: Initialize, Get transaction, Process, Set status, End, with an exception at Process looping back for a retry.">
-</picture>
-
 <table>
   <tr>
     <td width="33%" valign="top"><b>Certified</b><br>UiPath Advanced RPA Developer, IBM RPA and Microsoft Power Automate.</td>
@@ -34,10 +29,17 @@ I build workflows that take repetitive work off people’s plates and stay with 
 - **Ownership after go-live.** I monitor production bots and assess failures as they happen.
 - **Causes, not symptoms.** Root-cause analysis on recurring exceptions to bring down repeat incidents.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
-  <img src="assets/workflow-light.svg" width="320" alt="Delivery lifecycle: requirements, design, build, UAT, hypercare, monitor, then root cause, with a dashed loop from root cause back to build that repeats until the exception stops recurring.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
+    <img src="assets/workflow-light.svg" width="320" alt="Delivery lifecycle: requirements, design, build, UAT, hypercare, monitor, then root cause, with a dashed loop from root cause back to build that repeats until the exception stops recurring.">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-wide-dark.svg">
+    <img src="assets/workflow-wide-light.svg" width="320" alt="Animated state machine: Initialize, Get transaction, Process, Set status, End, with an exception at Process looping back for a retry.">
+  </picture>
+</p>
 
 ## Featured work
 
